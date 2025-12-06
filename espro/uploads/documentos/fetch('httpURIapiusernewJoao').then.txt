@@ -1,0 +1,3 @@
+fetch('http://URI/api/user/new/Joao').then (resposta=>{
+   console.log(resposta.json())
+});
